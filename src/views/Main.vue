@@ -192,7 +192,9 @@ const dummyData = {
     name: '請輸入姓名',
     tel: '請輸入行動電話',
     email: '請輸入電子郵件',
-    address: '請輸入地址'
+    address: '請輸入地址',
+    title: '請選擇稱謂',
+    city: '請選擇縣市'
   },
   shipStyle: {
     value: 0
